@@ -1,0 +1,1 @@
+print("natia tengo mari")
